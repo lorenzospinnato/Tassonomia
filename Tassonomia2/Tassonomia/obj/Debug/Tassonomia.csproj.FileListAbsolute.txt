@@ -1,0 +1,40 @@
+C:\Users\cad\Desktop\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe.config
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia - Spinnato Lorenzo\Tassonomia\bin\Debug\Tassonomia.exe.config
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia - Spinnato Lorenzo\Tassonomia\obj\Debug\Tassonomia.csprojResolveAssemblyReference.cache
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia - Spinnato Lorenzo\Tassonomia\bin\Debug\Tassonomia.exe
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia - Spinnato Lorenzo\Tassonomia\bin\Debug\Tassonomia.pdb
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia - Spinnato Lorenzo\Tassonomia\obj\Debug\Tassonomia.exe
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia - Spinnato Lorenzo\Tassonomia\obj\Debug\Tassonomia.pdb
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe.config
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\obj\Debug\Tassonomia.exe
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\obj\Debug\Tassonomia.pdb
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\obj\Debug\Tassonomia.csprojResolveAssemblyReference.cache
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\bin\Debug\Tassonomia.pdb
+L:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe.config
+L:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\obj\Debug\Tassonomia.exe
+L:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\obj\Debug\Tassonomia.pdb
+L:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\obj\Debug\Tassonomia.csprojResolveAssemblyReference.cache
+L:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe
+L:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\bin\Debug\Tassonomia.pdb
+E:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe.config
+E:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\obj\Debug\Tassonomia.exe
+E:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\obj\Debug\Tassonomia.pdb
+D:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe.config
+D:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\obj\Debug\Tassonomia.exe
+D:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\obj\Debug\Tassonomia.pdb
+D:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\obj\Debug\Tassonomia.csprojResolveAssemblyReference.cache
+D:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe
+D:\Scuola\Quarta Superiore\Informatica\Tassonomia\Tassonomia\bin\Debug\Tassonomia.pdb
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia2\Tassonomia\bin\Debug\Tassonomia.exe.config
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia2\Tassonomia\obj\Debug\Tassonomia.exe
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia2\Tassonomia\obj\Debug\Tassonomia.pdb
+E:\Scuola\Quarta Superiore\Informatica\Tassonomia2\Tassonomia\bin\Debug\Tassonomia.exe.config
+E:\Scuola\Quarta Superiore\Informatica\Tassonomia2\Tassonomia\obj\Debug\Tassonomia.exe
+E:\Scuola\Quarta Superiore\Informatica\Tassonomia2\Tassonomia\obj\Debug\Tassonomia.pdb
+E:\Scuola\Quarta Superiore\Informatica\Tassonomia2\Tassonomia\obj\Debug\Tassonomia.csprojResolveAssemblyReference.cache
+E:\Scuola\Quarta Superiore\Informatica\Tassonomia2\Tassonomia\bin\Debug\Tassonomia.exe
+E:\Scuola\Quarta Superiore\Informatica\Tassonomia2\Tassonomia\bin\Debug\Tassonomia.pdb
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia2\Tassonomia\bin\Debug\Tassonomia.exe
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia2\Tassonomia\bin\Debug\Tassonomia.pdb
+F:\Scuola\Quarta Superiore\Informatica\Tassonomia2\Tassonomia\obj\Debug\Tassonomia.csprojResolveAssemblyReference.cache
